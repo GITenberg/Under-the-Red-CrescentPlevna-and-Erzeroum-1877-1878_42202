@@ -1,0 +1,31 @@
+_repo: Under-the-Red-CrescentPlevna-and-Erzeroum-1877-1878_42202
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42202-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Ryan, Charles S. (Charles Snodgrass)
+    birthdate: 1853
+    deathdate: 1926
+    gutenberg_agent_id: '41571'
+    url: http://www.gutenberg.org/2009/agents/41571
+  - agent_name: Sandes, John
+    birthdate: 1863
+    gutenberg_agent_id: '45325'
+    url: http://www.gutenberg.org/2009/agents/45325
+description: ''
+gutenberg_issued: '2013-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Russo-Turkish War, 1877-1878 -- Personal narratives'
+title: "Under the Red Crescent\r\nAdventures of an English Surgeon with the Turkish\
+  \ Army at Plevna and Erzeroum 1877-1878"
+url: http://www.gutenberg.org/ebooks/42202
