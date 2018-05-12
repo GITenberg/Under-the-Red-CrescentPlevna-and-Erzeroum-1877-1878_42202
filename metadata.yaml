@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '45325'
     url: http://www.gutenberg.org/2009/agents/45325
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42202#Under-the-Red-CrescentPlevna-and-Erzeroum-1877-1878
 gutenberg_issued: '2013-02-25'
 gutenberg_type: Text
 identifiers:
